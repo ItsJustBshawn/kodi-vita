@@ -10,7 +10,7 @@ This is an early playtest build. Local video, Real-Debrid playback and live TV h
 
 [Download Playtest 01](https://github.com/ItsJustBshawn/kodi-vita/releases/tag/playtest-01).
 
-Choose the **VPK** for a normal install, or the **folder-install ZIP** if VPK installation is too slow. The **source ZIP** is for building or reviewing the port. You do not need it to run Kodi.
+Choose the **VPK** for a normal install, or the **folder-install ZIP** if VPK installation is too slow.
 
 ## Getting started
 
@@ -83,9 +83,7 @@ Please include your device model, build version, what you were playing, and the 
 
 Kodi logs are under `ux0:data/kodi/temp/`. Check them before posting because they can contain private playback links. Do not upload `auth.json`, account tokens or your whole Kodi data folder.
 
-## Source and credits
-
-The [source archive](https://github.com/ItsJustBshawn/kodi-vita/releases/download/playtest-01/kodi-vita-bshawn-playtest-01-source.zip) includes the port, build instructions, patches and dependency sources. Build notes are in `docs/README.Vita.md` inside the Kodi source tree.
+## Credits
 
 Kodi is made by the Kodi team and its contributors. This is an unofficial community port. Thanks to the VitaSDK, vitaGL, CPython-Vita and FFmpeg projects, and to everyone helping test it.
 
